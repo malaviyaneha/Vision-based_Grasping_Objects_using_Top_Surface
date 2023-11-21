@@ -1,0 +1,4 @@
+source;share/vbm_project_grasping/local_setup.bash
+source;share/vbm_project_grasping/local_setup.dsv
+source;share/vbm_project_grasping/local_setup.sh
+source;share/vbm_project_grasping/local_setup.zsh

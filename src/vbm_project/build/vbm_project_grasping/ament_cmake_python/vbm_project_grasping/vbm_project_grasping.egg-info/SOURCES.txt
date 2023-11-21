@@ -1,0 +1,6 @@
+setup.py
+vbm_project_grasping/__init__.py
+vbm_project_grasping.egg-info/PKG-INFO
+vbm_project_grasping.egg-info/SOURCES.txt
+vbm_project_grasping.egg-info/dependency_links.txt
+vbm_project_grasping.egg-info/top_level.txt

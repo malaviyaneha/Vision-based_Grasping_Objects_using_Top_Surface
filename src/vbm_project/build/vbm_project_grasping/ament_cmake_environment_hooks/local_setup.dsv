@@ -1,0 +1,3 @@
+source;share/vbm_project_grasping/environment/ament_prefix_path.sh
+source;share/vbm_project_grasping/environment/path.sh
+source;share/vbm_project_grasping/environment/pythonpath.sh
